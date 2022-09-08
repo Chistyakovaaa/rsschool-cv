@@ -15,3 +15,37 @@
 **Telegram:** @chistyakovayulia
 
 **Git Hub:** Chistyakovaaa
+
+### Summary
+
+I am currently studying and developing myself in various fields. My goal is to learn everything new and exciting. I love coding, drinking coffee and taking pictures. I can (like) to spend a lot of time doing what interests me. My main strengths are:
+
+- fast learning ability;
+- responsibility;
+- purposefulness;
+- getting along with people;
+- interest in obtaining new knowledge.
+
+Actually, I'm an accountant, but I quickly realized that I don't like this profession and found my dream job.
+
+### Skills
+
+- HTML
+- CSS
+- JavaScript
+- Version control: Git (remote service GitHub)
+- Windows OS
+- Figma(for web development)
+- Editors: Sublime, VSCode
+
+### Courses:
+
+- External EPAM courses on Frontend development (completed)
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+### Languages:
+
+- English - A2
+
+- Russian - native
