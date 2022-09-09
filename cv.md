@@ -40,13 +40,16 @@ Actually, I'm an accountant, but I quickly realized that I don't like this profe
 
 ### Code example:
 
+```
+
 function mapMethod(array, callback) {
-const newArray = [];
-for (let i = 0; i < array.length; i += 1) {
-newArray.push(callback(array[i], i, array));
+  const newArray = [];
+  for (let i = 0; i < array.length; i += 1) {
+    newArray.push(callback(array[i], i, array));
+  }
+  return newArray;
 }
-return newArray;
-}
+```
 
 ### Courses:
 
